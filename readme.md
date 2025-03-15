@@ -32,7 +32,7 @@
 
 ---
 ## 🎥 Demo Bot Telegram
-[![Xem video demo](https://youtu.be/Ul0COGiDjM0/maxresdefault.jpg)](https://youtu.be/Ul0COGiDjM0)
+[![Xem video demo](https://github.com/QuangCler/Telegram_AITalentBot/blob/main/Demo/Untitled.png)](https://youtu.be/Ul0COGiDjM0)
 
 👉 **Nhấn vào ảnh trên để xem video demo trên YouTube!**
 ## 🔧 Cài đặt
