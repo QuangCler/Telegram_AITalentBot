@@ -52,29 +52,36 @@ TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 ```bash
 python telegram_bot.py
 ```
-🎯 Cách sử dụng
-Mở Telegram và tìm bot của bạn.
-Gõ lệnh /start để bắt đầu.
-Gửi file CV PDF cho bot.
-Bot sẽ hiển thị thông tin trên Telegram và lặng lẽ lưu file DOCX trên máy.
-📂 File DOCX được lưu trong thư mục dự án với cùng tên PDF.
-Ví dụ:
+## 🎯 Cách sử dụng
+1. **Mở Telegram** và tìm bot của bạn.  
+2. **Gõ lệnh `/start`** để bắt đầu.  
+3. **Gửi file CV PDF** cho bot.  
+4. **Bot sẽ hiển thị thông tin trên Telegram** và **lặng lẽ** lưu file DOCX trên máy.  
 
-Nếu bạn gửi NguyenVanA_CV.pdf, bot sẽ lưu NguyenVanA_CV.docx.
-🛠 Tùy chỉnh
-Bạn có thể tùy chỉnh bot theo nhu cầu:
+### 📂 File DOCX được lưu trong thư mục dự án với cùng tên PDF.  
+Ví dụ:  
+- Nếu bạn gửi **`NguyenVanA_CV.pdf`**, bot sẽ lưu **`NguyenVanA_CV.docx`**.  
 
-Gửi file DOCX cho người dùng thay vì lưu trên máy
-Lưu dữ liệu vào JSON hoặc Google Drive
-Phân tích CV bằng AI để đánh giá kỹ năng
-📌 Mở rộng tính năng
-🔥 Bạn có thể mở rộng bot bằng cách:
+---
 
-Tích hợp AI để phân tích CV
-Tạo bản tóm tắt CV chuyên nghiệp
-Gửi dữ liệu qua Email hoặc API bên thứ ba
-🎯 Liên hệ & Hỗ trợ
-💬 Nếu bạn cần hỗ trợ hoặc muốn đóng góp, hãy mở Issue trên GitHub.
-🌟 Nếu bạn thấy dự án hữu ích, hãy Star repo này!
+## 🛠 Tùy chỉnh  
+Bạn có thể **tùy chỉnh bot** theo nhu cầu:  
+- 📄 **Gửi file DOCX cho người dùng thay vì lưu trên máy.**  
+- 💾 **Lưu dữ liệu vào JSON hoặc Google Drive.**  
+- 🤖 **Phân tích CV bằng AI để đánh giá kỹ năng.**  
 
-🚀 Happy Coding! 🎯
+---
+
+## 📌 Mở rộng tính năng  
+🔥 Bạn có thể mở rộng bot bằng cách:  
+- 🧠 **Tích hợp AI để phân tích CV.**  
+- 📝 **Tạo bản tóm tắt CV chuyên nghiệp.**  
+- 📧 **Gửi dữ liệu qua Email hoặc API bên thứ ba.**  
+
+---
+
+## 🎯 Liên hệ & Hỗ trợ  
+💬 Nếu bạn cần hỗ trợ hoặc muốn đóng góp, hãy mở **Issue** trên GitHub.  
+🌟 Nếu bạn thấy dự án hữu ích, hãy **Star repo này!**  
+
+🚀 **Happy Coding!** 🎯
