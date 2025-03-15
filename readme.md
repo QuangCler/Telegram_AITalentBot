@@ -40,19 +40,18 @@ Tải và cài đặt Python từ [python.org](https://www.python.org/downloads/
 Chạy lệnh sau trong terminal:
 ```bash
 pip install python-telegram-bot pdfplumber python-docx
-3️⃣ Tạo bot trên Telegram
+```
+### 3️⃣ Tạo bot trên Telegram
 Vào BotFather trên Telegram.
 Gõ /newbot, đặt tên bot và lấy TOKEN.
 Sao chép TOKEN và cập nhật vào file telegram_bot.py:
-python
-Sao chép
-Chỉnh sửa
+```bash
 TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+```
 ⚡ Chạy bot
-bash
-Sao chép
-Chỉnh sửa
+```bash
 python telegram_bot.py
+```
 🎯 Cách sử dụng
 Mở Telegram và tìm bot của bạn.
 Gõ lệnh /start để bắt đầu.
