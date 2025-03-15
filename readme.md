@@ -31,7 +31,10 @@
 - **[python-docx](https://python-docx.readthedocs.io/en/latest/)** (Lưu dữ liệu vào file DOCX)  
 
 ---
+## 🎥 Demo Bot Telegram
+[![Xem video demo](https://youtu.be/Ul0COGiDjM0/maxresdefault.jpg)](https://youtu.be/Ul0COGiDjM0)
 
+👉 **Nhấn vào ảnh trên để xem video demo trên YouTube!**
 ## 🔧 Cài đặt
 ### 1️⃣ Cài đặt Python (nếu chưa có)
 Tải và cài đặt Python từ [python.org](https://www.python.org/downloads/).  
